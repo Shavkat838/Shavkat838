@@ -9,6 +9,8 @@
 <p>Building useful software and sharing the work in public.</p>
 <p><strong>● Building and sharing work in public</strong></p>
 
+ <img src="https://chatgpt.com/backend-api/estuary/content?id=file_00000000345482109298ea10eb18e51b&ts=497124&p=fs&cid=1&sig=452c07ab80cb2b92ab1048f1ac4428e573d47128d8cb5b56ef1487987c370832&v=0" width="240px" alt="Shavkat Boltayev animated colored ASCII portrait" />
+
 <p><a href="https://github.com/shavkat838">GitHub</a></p>
 </td>
 <td width="36%" valign="middle" align="center">
