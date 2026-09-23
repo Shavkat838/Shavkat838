@@ -6,13 +6,13 @@
 
 ---
 
-### 👨‍💻 Men haqimda:
-- 🔭 Hozirda **[Loyiha nomi yoki kompaniya]** ustida ishlayapman.
-- 🌱 Hozirda **[O'rganayotgan texnologiyangiz]** ni o'rganyapman.
-- 💬 **Python, JavaScript, React, Node.js** bo'yicha savollaringiz bo'lsa, murojaat qilishingiz mumkin.
-- 📬 Men bilan bog'lanish boltayevshavkat216@gmail.com
-
----
+<h1>About Me<h1/>
+</br>
+<p>I'm a developer specializing in modern web development with React, Next.js, and TypeScript. I love building scalable applications, solving complex problems, and exploring new technologies  
+🚀 Core Stack: React | Next.js | TypeScript | Node.js
+🌱 Always learning and exploring new technologies.  
+<p/>
+    
 
 ### 🛠 Texnologiyalar va Asboblar:
 <p align="left">
