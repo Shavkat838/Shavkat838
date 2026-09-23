@@ -1,4 +1,4 @@
-# ✍️ Salom, men [Ismingiz]!
+# ✍️ Salom, men Shavkat Boltayev!
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full Stack+Developer;Open+Source+Enthusiast;Python+%26+JavaScript+Lover" alt="Typing SVG" />
@@ -10,7 +10,7 @@
 - 🔭 Hozirda **[Loyiha nomi yoki kompaniya]** ustida ishlayapman.
 - 🌱 Hozirda **[O'rganayotgan texnologiyangiz]** ni o'rganyapman.
 - 💬 **Python, JavaScript, React, Node.js** bo'yicha savollaringiz bo'lsa, murojaat qilishingiz mumkin.
-- 📬 Men bilan bog'lanish: **[Emailingiz]**
+- 📬 Men bilan bog'lanish boltayevshavkat216@gmail.com
 
 ---
 
