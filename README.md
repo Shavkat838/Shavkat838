@@ -45,4 +45,4 @@ const developer = {
   tools:    ["Git", "Docker", "VS Code", "Figma", "Postman"],
   focus:    "Clean Architecture & Scalable Web Apps",
   hobbies:  ["Open Source", "Coding", "Learning 🚀"]
-};```
+};
