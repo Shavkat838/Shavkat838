@@ -31,7 +31,7 @@
 
 <h2 align="center">👨‍💻 Men haqimda</h2>
 
-<div align="center">
+<div align="left">
   
 ```ts
 const developer = {
