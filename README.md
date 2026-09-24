@@ -33,7 +33,7 @@
 <h2 align="center">👨‍💻 Men haqimda</h2>
 
 <div align="center">
-
+  
 ```ts
 const developer = {
   name: "Shavkat Boltayev",
@@ -45,4 +45,4 @@ const developer = {
   tools:    ["Git", "Docker", "VS Code", "Figma", "Postman"],
   focus:    "Clean Architecture & Scalable Web Apps",
   hobbies:  ["Open Source", "Coding", "Learning 🚀"]
-};
+};```
