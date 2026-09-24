@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- ========== BANNER ========== -->
-  <img src="BANNER_RASM_LINKI" alt="Shavkat Boltayev" width="100%" />
+  <img src="/banner.png" alt="Shavkat Boltayev" width="100%" />
 
   <br /><br />
 
