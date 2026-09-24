@@ -87,10 +87,3 @@ const developer = {
   focus:    "Clean Architecture & Scalable Web Apps",
   hobbies:  ["Open Source", "Coding", "Learning 🚀"]
 };
-
-
-
-
-
-
-
